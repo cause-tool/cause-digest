@@ -1,0 +1,32 @@
+{
+  "name": "cause-digest",
+  "version": "0.0.0",
+  "description": "releases list items in groups of n",
+  "main": "index.js",
+  "license": "CC-BY-NC-SA-4.0",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "freder.code@gmail.com",
+  "dependencies": {
+    "cause-utils": "*",
+    "lodash": "^4.5.1",
+    "moment": "^2.11.2",
+    "ramda": "^0.19.1",
+    "sf": "^0.1.8"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freder/cause-digest.git"
+  },
+  "keywords": [
+    "cause",
+    "cause-block",
+    "digest"
+  ],
+  "bugs": {
+    "url": "https://github.com/freder/cause-digest/issues"
+  },
+  "homepage": "https://github.com/freder/cause-digest"
+}
