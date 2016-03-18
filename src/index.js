@@ -4,7 +4,7 @@ const moment = require('moment');
 const sf = require('sf');
 const _ = require('lodash');
 const R = require('ramda');
-const parsingUtils = require('cause-utils/parsing');
+const parsingUtils = require('cause-utils/dist/parsing');
 
 
 function main(step, context, config, input, done) {
