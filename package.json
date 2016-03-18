@@ -1,6 +1,6 @@
 {
   "name": "cause-digest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "releases list items in groups of n",
   "main": "dist",
   "license": "CC-BY-NC-SA-4.0",
